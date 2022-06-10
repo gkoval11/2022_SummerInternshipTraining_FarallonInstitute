@@ -1,0 +1,21 @@
+name: tutorialenv
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - cartopy
+  - jupyterlab
+  - matplotlib
+  - numpy
+  - pandas
+  - python
+  - xarray
+  - netcdf4
+  - scikit-learn
+  - statsmodels
+  - dask
+  - zarr
+  - wget
+  - aiohttp
+  - geoviews
+  - seaborn
