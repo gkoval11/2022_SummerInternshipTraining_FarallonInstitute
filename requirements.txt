@@ -7,4 +7,6 @@ netcdf4==1.5.3
 dask==2.19.0
 zarr==2.8.3
 seaborn==0.11.2
+Proj==8.0.0
+GEOS==3.7.2
 cartopy==0.20.2
